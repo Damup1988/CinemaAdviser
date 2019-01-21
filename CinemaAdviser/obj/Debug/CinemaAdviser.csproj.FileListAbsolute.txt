@@ -1,0 +1,7 @@
+F:\_projects\c_sharp\CinemaAdviser\CinemaAdviser\CinemaAdviser\bin\Debug\CinemaAdviser.exe.config
+F:\_projects\c_sharp\CinemaAdviser\CinemaAdviser\CinemaAdviser\bin\Debug\CinemaAdviser.exe
+F:\_projects\c_sharp\CinemaAdviser\CinemaAdviser\CinemaAdviser\bin\Debug\CinemaAdviser.pdb
+F:\_projects\c_sharp\CinemaAdviser\CinemaAdviser\CinemaAdviser\obj\Debug\CinemaAdviser.csprojAssemblyReference.cache
+F:\_projects\c_sharp\CinemaAdviser\CinemaAdviser\CinemaAdviser\obj\Debug\CinemaAdviser.csproj.CoreCompileInputs.cache
+F:\_projects\c_sharp\CinemaAdviser\CinemaAdviser\CinemaAdviser\obj\Debug\CinemaAdviser.exe
+F:\_projects\c_sharp\CinemaAdviser\CinemaAdviser\CinemaAdviser\obj\Debug\CinemaAdviser.pdb
